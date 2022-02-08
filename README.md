@@ -1,1 +1,1 @@
-The functions is given in the file, starting at line 4.
+The functions has given in the file, starting at line 4.
